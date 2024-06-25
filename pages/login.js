@@ -24,7 +24,7 @@ const Login = () => {
     <div className="bg-[#111421] text-white">
       <div className="bg-[#2A3254]">
         <h1 className="sm:text-2xl font-bold text-center">
-          WELCOME TO OUR <span className="text-[#faff00]"> WORLD!!</span>
+          WELCOME TO OURS <span className="text-[#faff00]"> WORLD!!</span>
         </h1>
       </div>
       <div className="flex flex-col items-center py-28 lg:py-10 relative">
